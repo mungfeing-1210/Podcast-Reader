@@ -1,0 +1,4 @@
+title: Podcast Reader
+theme: minima
+plugins:
+  - jekyll-feed
