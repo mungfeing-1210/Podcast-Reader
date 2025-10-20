@@ -1,4 +1,5 @@
-title: Podcast Reader
+url: https://mungfeing-1210.github.io
+baseurl: /Podcast-Reader
 theme: minima
 plugins:
   - jekyll-feed
